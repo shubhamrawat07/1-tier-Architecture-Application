@@ -1,0 +1,10 @@
+Enable IIS
+
+Get source code (in this case from github repo). 
+[Unzip, copy-paste in C:\inetpub\wwwroot]
+
+http://localhost
+
+Enjoy :)
+
+Created a 1 Tier Architecture Application in Windows system, now will do in Linux. 
